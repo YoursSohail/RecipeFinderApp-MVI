@@ -19,7 +19,9 @@ The Recipe Finder App is a demonstration of how to build a modern Android app us
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+<p align="center">
+  <img src="screenshot.png" alt="Screenshot 1" width="300" />
+</p>
 
 ## Video Walkthrough
 
